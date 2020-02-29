@@ -6,7 +6,7 @@
 ダウンロード
 ------------
 
-- [Windows版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_window.zip)
+- [Windows版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_windows.zip)
 - [Mac版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_mac.zip)
 - [Linux版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_linux.zip)
 

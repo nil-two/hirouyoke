@@ -32,3 +32,13 @@ http://nostalgiamusic.info/
 【ボイス】
 WEB WAVE LIB様
 http://www.s-t-t.net/wwl/
+
+ライセンス
+----------
+
+MIT License
+
+作者
+----
+
+nil2 <nil2@nil2.org>

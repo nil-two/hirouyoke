@@ -6,9 +6,9 @@
 ダウンロード
 ------------
 
-- [Windows版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_windows.zip)
-- [Mac版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_mac.zip)
-- [Linux版](https://github.com/kusabashira/hirouyoke/releases/download/v1.0.0/hirouyoke_linux.zip)
+- [Windows版](https://github.com/nil2nekoni/hirouyoke/releases/download/v1.0.0/hirouyoke_windows.zip)
+- [Mac版](https://github.com/nil2nekoni/hirouyoke/releases/download/v1.0.0/hirouyoke_mac.zip)
+- [Linux版](https://github.com/nil2nekoni/hirouyoke/releases/download/v1.0.0/hirouyoke_linux.zip)
 
 Mac版は動作未検証です。
 また、Linux版は実行ファイルに権限が付与されていないのでchmodを使って実行権限を付与する必要があります。
